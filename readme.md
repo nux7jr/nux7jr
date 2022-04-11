@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
-<p align="left"> <a href="https://twitter.com/nux7jr" target="blank"><img src="https://img.shields.io/twitter/follow/nux7jr?logo=twitter&style=for-the-badge" alt="nux7jr" /></a> </p>
-
 - 🔭 I’m currently working on [hisfit](https://github.com/nux7jr/MyProject) | [Candy](https://github.com/nux7jr/candy) | [Jusy](https://github.com/nux7jr/Jusy)
 
 - 📫 How to reach me **nux7jr@gmail.com**
