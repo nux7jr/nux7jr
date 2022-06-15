@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
-- 🔭 I’m currently working on [hisfit](https://github.com/nux7jr/MyProject) | [Candy](https://github.com/nux7jr/candy) | [Jusy](https://github.com/nux7jr/Jusy)
+- 🔭 I’m currently working on [ulukol](https://github.com/nux7jr/ulukol)
 
 - 📫 How to reach me **nux7jr@gmail.com**
 
