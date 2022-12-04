@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mike</h1>
 <h3 align="center">A passionate frontend developer from Russia</h3>
 
-- 🔭 I’m currently working on [ulukol](https://ulukol-rf.vercel.app/) | [mirana](https://mirana-nu.vercel.app/)
-
 - 📫 How to reach me **nux7jr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
